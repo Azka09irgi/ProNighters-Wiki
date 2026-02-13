@@ -30,3 +30,4 @@
 * [Discord Server](miscellaneous/discord-server/README.md)
   * [1. Type of Gamenights](miscellaneous/discord-server/1.-type-of-gamenights.md)
   * [2. Role Info](miscellaneous/discord-server/2.-role-info.md)
+  * [3. Channel Info](miscellaneous/discord-server/3.-channel-info.md)
