@@ -5,7 +5,7 @@ description: The Host
 # Azka09irgi
 
 **Information:**\
-The host of ProNighters. However, this host was kicked once due to suspicion that the account was hacked. He is the one who created the ProNighters Wiki and won the ProNighters Award for it.
+The host of ProNighters. He was temporarily banned once due to a misunderstanding, when a fake screenshot made it look as though his account had been hacked. He created the ProNighters Wiki and later won the ProNighters Award for his work on it.
 
 **Role:** Host
 
