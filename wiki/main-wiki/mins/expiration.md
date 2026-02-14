@@ -1,5 +1,6 @@
 ---
 description: The @min
+icon: hammer
 ---
 
 # Expiration

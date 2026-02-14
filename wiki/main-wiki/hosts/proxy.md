@@ -1,5 +1,6 @@
 ---
 description: The host
+icon: clipboard-user
 ---
 
 # Proxy

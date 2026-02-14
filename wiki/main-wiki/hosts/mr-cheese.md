@@ -1,5 +1,6 @@
 ---
 description: The Host
+icon: clipboard-user
 ---
 
 # Mr Cheese
@@ -11,7 +12,7 @@ Requires: Further information
 {% endhint %}
 
 **Information:**\
-The host of ProNighters. A special host who has 3 special roles. Holds the record of the longest gamenight. 
+The host of ProNighters. A special host who has 3 special roles. Holds the record of the longest gamenight.
 
 **Role:** Host
 

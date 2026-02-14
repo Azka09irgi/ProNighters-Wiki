@@ -1,5 +1,6 @@
 ---
 description: The Head @min
+icon: hammer
 ---
 
 # Maxpq
