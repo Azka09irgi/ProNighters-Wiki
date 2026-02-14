@@ -1,3 +1,7 @@
+---
+icon: location-dot
+---
+
 # Lobby
 
 Visit ProNighters lobby by going to: [https://www.roblox.com/games/18779155470](https://www.roblox.com/games/18779155470/)
