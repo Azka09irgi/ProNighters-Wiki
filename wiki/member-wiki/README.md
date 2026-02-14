@@ -1,6 +1,6 @@
 # Welcome to the ProNighters Member Wiki!
 
-{% hint style="info" %}
+{% hint style="success" %}
 Our main wiki: [https://pronighters.gitbook.io/pronighters-wiki](https://pronighters.gitbook.io/pronighters-wiki)
 {% endhint %}
 
