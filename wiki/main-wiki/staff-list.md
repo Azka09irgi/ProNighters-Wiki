@@ -13,7 +13,7 @@ Requires: Further Information + Synchronization
 List of staff on ProNighters:\
 \
 **High Ranks:** [bumpybanger3](high-ranks/bumpybanger3.md), [Habclan](high-ranks/habclan.md), sebee\
-**Head at-min:** [Maxpq](high-ranks/maxpq.md)\
+**Head At-min:** [Maxpq](high-ranks/maxpq.md)\
 **Head Host:** [Purple](high-ranks/purple.md)\
-**at-min:** [Endoxen](mins/endoxen.md), [Expiration](mins/expiration.md), [Hyperlink](mins/hyperlink.md)\
+A**t-min:** [Endoxen](at-mins/endoxen.md), [Expiration](at-mins/expiration.md), [Hyperlink](at-mins/hyperlink.md)\
 **Host:** [Azka09irgi](hosts/azka09irgi.md), [Mecha](hosts/mecha.md), [Mr Cheese](hosts/mr-cheese.md), [Proxy](hosts/proxy.md), [Shadow](hosts/shadow.md)

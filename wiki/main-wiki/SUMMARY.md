@@ -10,11 +10,11 @@
 * [Maxpq](high-ranks/maxpq.md)
 * [Purple](high-ranks/purple.md)
 
-## @mins
+## at-mins
 
-* [Endoxen](mins/endoxen.md)
-* [Expiration](mins/expiration.md)
-* [Hyperlink](mins/hyperlink.md)
+* [Endoxen](at-mins/endoxen.md)
+* [Expiration](at-mins/expiration.md)
+* [Hyperlink](at-mins/hyperlink.md)
 
 ## Hosts
 
