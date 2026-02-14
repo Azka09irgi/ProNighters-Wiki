@@ -6,7 +6,7 @@ icon: clipboard-user
 # Azka09irgi
 
 **Information:**\
-The host of ProNighters. He was temporarily banned once due to a misunderstanding, when a fake screenshot made it look as though his account had been hacked. He created the ProNighters Wiki and later won the ProNighters Award for his work on it.
+The host of ProNighters. He was temporarily banned once due to a misunderstanding, when a fake screenshot made it look as though his account had been hacked. He created the ProNighters Wiki and later won the ProNighters Award for his work on it. Currently holds the record of the longest gamenight ever hosted (Game Night type: Minecraft).
 
 **Role:** Host
 
