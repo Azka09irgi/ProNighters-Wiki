@@ -12,7 +12,7 @@ Requires: Further Information
 {% endhint %}
 
 **Information:**\
-The head host of ProNighters.
+The head host of ProNighters. Later that, Night retired and gave up his position as a head host.
 
 **Role:** Head Host
 
