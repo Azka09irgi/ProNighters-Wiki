@@ -18,4 +18,4 @@ The head host of ProNighters. Later that, Night retired and gave up his position
 
 **Join Date:** 1 April 2024
 
-**Roblox Username:** 0Im\_Paralyzed0
+**Roblox Username:** [0Im\_Paralyzed0](https://www.roblox.com/users/1596141301/profile)
