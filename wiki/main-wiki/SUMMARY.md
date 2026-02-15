@@ -8,7 +8,7 @@
 * [bumpybanger3](high-ranks/bumpybanger3.md)
 * [Habclan](high-ranks/habclan.md)
 * [Maxpq](high-ranks/maxpq.md)
-* [Purple](high-ranks/purple.md)
+* [Retro](high-ranks/purple.md)
 
 ## at-mins
 
