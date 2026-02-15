@@ -5,14 +5,8 @@ icon: clipboard-user
 
 # Proxy
 
-{% hint style="warning" %}
-**This page is a stub!**\
-This page is a stub. You can edit this page by going to [GitHub](https://github.com/The-ProNighters/ProNighters-Wiki/edit/main/wiki/main-wiki/hosts/proxy.md) or [GitLab](https://gitlab.com/the-pronighters/ProNighters-Wiki/-/blob/main/wiki/main-wiki/hosts/proxy.md)!\
-Requires: Further information
-{% endhint %}
-
 **Information:**\
-The host of ProNighters.
+The host of ProNighters. A special host who has 2 special roles (Artist Role and Game Night winner role). He later won an EXCLUSIVE Artist role because of his art.
 
 **Role:** Host
 
