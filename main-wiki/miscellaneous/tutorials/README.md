@@ -1,0 +1,9 @@
+---
+icon: comment-question
+---
+
+# Tutorials
+
+Welcome to the tutorials page! Please select which one you need!
+
+<table data-view="cards"><thead><tr><th></th><th data-hidden data-card-cover data-type="image">Cover image</th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td>How to Use /button-make</td><td><a href="../../.gitbook/assets/image (7).png">image (7).png</a></td><td><a href="how-to-use-button-make.md">how-to-use-button-make.md</a></td></tr><tr><td>How to Blacklist a User from Game Nights</td><td><a href="../../.gitbook/assets/image (3).png">image (3).png</a></td><td><a href="how-to-blacklist-users-from-game-nights.md">how-to-blacklist-users-from-game-nights.md</a></td></tr></tbody></table>
