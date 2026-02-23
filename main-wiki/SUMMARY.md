@@ -40,3 +40,4 @@
 * [Tutorials](miscellaneous/tutorials/README.md)
   * [How to Use The /button-make Command](miscellaneous/tutorials/how-to-use-button-make.md)
   * [How to Blacklist Users from Joining Game Nights](miscellaneous/tutorials/how-to-blacklist-users-from-game-nights.md)
+  * [How to Join a Game Night with a Roblox Private Server](miscellaneous/tutorials/how-to-join-private-server.md)

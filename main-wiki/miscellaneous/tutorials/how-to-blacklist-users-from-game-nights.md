@@ -8,7 +8,7 @@ You need to be a host to use this command!
 
 When you first use the /blacklist-gamenight command, you'll be asked how long the user needs to be blacklisted (in days). For example, when you type 1, the user will be blacklisted for 1 day.
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption><p>The days column (specify a number)</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption><p>The days column (specify a number)</p></figcaption></figure>
 
 ### Step 2 - Select the user to be blacklisted.
 
@@ -18,7 +18,7 @@ Select a user that you need to be blacklisted. You can select a user from the co
 
 You need the reason why the user is blacklisted from joining game nights. For example: "This user is breaking too many game night rules."
 
-<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption><p>The reason of why the user is blacklisted from Game Nights</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1).png" alt=""><figcaption><p>The reason of why the user is blacklisted from Game Nights (EXAMPLE)</p></figcaption></figure>
 
 ### Step 4 - Finalize
 
