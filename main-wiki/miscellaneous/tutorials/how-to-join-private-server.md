@@ -1,5 +1,9 @@
 # How to Join a Game Night with a Roblox Private Server
 
+{% hint style="info" %}
+Read more about [Private / VIP Servers](https://en.help.roblox.com/hc/en-us/articles/205345050-Private-VIP-Servers-FAQ)
+{% endhint %}
+
 You must turn on the "Private Servers" for Everyone.
 
 <figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption><p>Private server settings</p></figcaption></figure>
