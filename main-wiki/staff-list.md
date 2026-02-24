@@ -16,7 +16,7 @@ Requires: Further Information + Missing Images
 
 **At-Mins:**
 
-<table data-view="cards"><thead><tr><th></th><th data-hidden data-card-cover data-type="image">Cover image</th></tr></thead><tbody><tr><td>Endoxen</td><td></td></tr><tr><td>Expiration</td><td><a href=".gitbook/assets/image (16).png">image (16).png</a></td></tr><tr><td>Hyperlink</td><td></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th data-hidden data-card-cover data-type="image">Cover image</th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td>Endoxen</td><td></td><td><a href="at-mins/endoxen.md">endoxen.md</a></td></tr><tr><td>Expiration</td><td><a href=".gitbook/assets/image (16).png">image (16).png</a></td><td><a href="at-mins/expiration.md">expiration.md</a></td></tr><tr><td>Hyperlink</td><td></td><td><a href="at-mins/hyperlink.md">hyperlink.md</a></td></tr></tbody></table>
 
 **Hosts:**
 
