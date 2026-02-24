@@ -35,8 +35,11 @@ Congrats! You just created your button for your game night! If you still need so
 
 <figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption><p>Co-Host Option</p></figcaption></figure>
 
-You can add the Co-Host for your Game Night by typing a user in the option, or entering the user ID
+You can add the Co-Host for your Game Night by typing a user in the option or entering the user ID.
 
 {% hint style="info" %}
 To find someone's user ID, read more in the "[Where can I find my User/Server/Message ID?](https://support.discord.com/hc/en-us/articles/206346498-Where-can-I-find-my-User-Server-Message-ID)" article
+{% endhint %}
+{% hint style="warning" %}
+This option only works for Game Nights where the Proper setting is set to "Yes."
 {% endhint %}
