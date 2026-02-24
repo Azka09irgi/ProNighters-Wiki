@@ -30,3 +30,13 @@ You only need the other info about the game night in the "GAME NIGHT LINK GOES H
 <figure><img src="../../.gitbook/assets/image (7).png" alt=""><figcaption><p>Game night button</p></figcaption></figure>
 
 Congrats! You just created your button for your game night! If you still need some help, you can contact our hosts!
+
+### Optional Option - Add someone as a co-host on your gamenight
+
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption><p>Co-Host Option</p></figcaption></figure>
+
+You can add the Co-Host for your Game Night by typing a user in the option, or entering the user ID
+
+{% hint style="info" %}
+To find someone's user ID, read more in the "[Where can I find my User/Server/Message ID?](https://support.discord.com/hc/en-us/articles/206346498-Where-can-I-find-my-User-Server-Message-ID)" article
+{% endhint %}

@@ -6,7 +6,7 @@ Read more about [Private / VIP Servers](https://en.help.roblox.com/hc/en-us/arti
 
 You must turn on the "Private Servers" for Everyone.
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption><p>Private server settings</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption><p>Private server settings</p></figcaption></figure>
 
 If you can't do this, you must add the private server owner (aka the host) as one of your connections on Roblox, so that you can join their private servers.
 
