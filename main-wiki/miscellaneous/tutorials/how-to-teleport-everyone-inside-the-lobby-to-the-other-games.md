@@ -34,4 +34,4 @@ Once you have the Place ID, paste it into the GUI and click "Teleport."
 
 ### Step 5 – Finalize
 
-Congrats! You just completed the tutorial. If you need further assistance, you can ask our hosts!&#x20;
+Congrats! You just learnt how to teleport everyone inside ProNighters Lobby to the other games! If you need further assistance, you can ask our hosts!
