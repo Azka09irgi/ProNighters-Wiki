@@ -41,3 +41,4 @@
   * [How to Use The /button-make Command](miscellaneous/tutorials/how-to-use-button-make.md)
   * [How to Blacklist Users from Joining Game Nights](miscellaneous/tutorials/how-to-blacklist-users-from-game-nights.md)
   * [How to Join a Game Night with a Roblox Private Server](miscellaneous/tutorials/how-to-join-private-server.md)
+  * [How to Teleport Everyone inside ProNighters Lobby to the Other Games](miscellaneous/tutorials/how-to-teleport-everyone-inside-pronighters-lobby-to-the-other-games.md)
