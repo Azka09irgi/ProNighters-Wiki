@@ -5,7 +5,7 @@ You need to be a Host to use this feature!
 {% endhint %}
 
 {% hint style="warning" %}
-You must request access to this feature before using it.
+You'll need to request access to this feature before using it.
 {% endhint %}
 
 ### Step 1 – Join the ProNighters Lobby
