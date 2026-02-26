@@ -44,3 +44,4 @@
   * [Sukuna](member-wiki/sukuna.md)
   * [Super\_Player](member-wiki/super_player.md)
   * [Vanguard](member-wiki/vanguard.md)
+* [Michael](michael.md)
