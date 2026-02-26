@@ -1,8 +1,13 @@
-# Welcome to the ProNighters Member Wiki!
+---
+icon: hand-wave
+---
 
-{% hint style="success" %}
-Our main wiki: [https://pronighters.gitbook.io/pronighters-wiki](https://pronighters.gitbook.io/pronighters-wiki)
-{% endhint %}
+# Welcome to the ProNighters Wiki!
 
-Welcome! This wiki is reserved for information about our members!\
+Hey, welcome to the wiki! This wiki is dedicated to a Discord server named "ProNighters".\
+We host game nights!\
 Join our server here: [https://discord.gg/6KHUy2yyuV](https://discord.gg/6KHUy2yyuV)
+
+This wiki is created and maintained by the community.
+
+**WARNING:** This wiki is **UNFINISHED**. Help us by contributing to it on [**GitHub**](https://github.com/The-ProNighters/ProNighters-Wiki/)!
