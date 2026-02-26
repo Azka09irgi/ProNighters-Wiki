@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Sukuna](README.md)
+* [Welcome to the ProNighters Member Wiki!](README.md)
 * [Felix](felix.md)
 * [Michael](michael.md)
 * [Vanguard](vanguard.md)
